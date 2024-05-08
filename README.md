@@ -9,5 +9,3 @@
 5) pip install numpy
 6) pip install opencv-python-headless
 6) pip install pyttsx3
-
-<h2>Face recording - ISC</h2>
